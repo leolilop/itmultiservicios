@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://itmultiservicios.com/sitemap.xml
