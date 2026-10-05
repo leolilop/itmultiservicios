@@ -168,3 +168,13 @@
   .coverage-grid { row-gap: 30px; }
   .about-section { padding-top: 8px; }
 }
+
+/* Slightly larger brand mark and wordmark. */
+.brand-logo { width: 62px !important; height: 62px !important; }
+.brand-wordmark strong { font-size: 1.05rem; }
+.brand-wordmark span { font-size: .78rem; }
+@media (max-width: 560px) {
+  .brand-logo { width: 58px !important; height: 58px !important; }
+  .brand-wordmark strong { font-size: .92rem; }
+  .brand-wordmark span { font-size: .68rem; }
+}
