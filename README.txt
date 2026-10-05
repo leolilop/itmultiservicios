@@ -1,9 +1,9 @@
-IT MULTISERVICIOS — SITIO WEB COMPLETO
+IT MULTISERVICIOS — VERSIÓN SIN DIVISIÓN INFORMÁTICA
 
-Esta carpeta contiene la versión de trabajo solicitada, con HTML, hoja de estilos separada, imágenes locales, marcas, trabajos, favicon e iconos de instalación.
+Esta es la versión anterior a la incorporación de Informática, con la portada aprobada.
 
-Para probarla localmente, abre index.html en un navegador. Para alojarla, sube el contenido completo de esta carpeta conservando las rutas relativas.
+Incluye el sitio completo: index.html, styles.css, imágenes, iconos, manifest, robots.txt y sitemap.xml.
+Sube el contenido de esta carpeta conservando las rutas.
+Vista previa: https://site.zapia.com/e4k1ukl5
 
-Vista previa publicada: https://site.zapia.com/e4k1ukl5
-
-La imagen de portada e informática y las imágenes de trabajos incluidas corresponden a la versión de prueba vigente al 27/09/2026.
+Ajuste móvil 04/10/2026: separaciones superiores uniformes de 24px entre las secciones principales.
